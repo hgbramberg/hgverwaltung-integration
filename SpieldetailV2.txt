@@ -1,0 +1,389 @@
+<div itemprop="articleBody">
+    <table style="width: 100%;" border="0">
+        <tbody>
+            <tr>
+                <td style="border: 1px solid #000000; background-color: #ffffff;">
+                    <span style="color: #000000;"><strong>Anlass:</strong></span>
+                </td>
+                <td id="art" style="border: 1px solid #000000; background-color: #ffffff;">
+                </td>
+                <td>
+                    &#160;
+                </td>
+                <td>
+                    &#160;
+                </td>
+            </tr>
+
+            <tr>
+                <td style="border: 1px solid #000000; background-color: #ffffff;">
+                    <strong>Datum:</strong>
+                </td>
+                <td id="datum" style="border: 1px solid #000000; background-color: #ffffff;">
+                </td>
+                <td>
+                    &#160;
+                </td>
+                <td>
+                    &#160;
+                </td>
+            </tr>
+
+            <tr>
+                <td style="border: 1px solid #000000; background-color: #ffffff;">
+                    <strong>Gegner:</strong>
+                </td>
+                <td id="gegner" style="border: 1px solid #000000; background-color: #ffffff;">
+                </td>
+                <td>
+                    &#160;
+                </td>
+                <td>
+                    &#160;
+                </td>
+                <td>
+                    &#160;
+                </td>
+            </tr>
+
+            <tr>
+                <td style="border: 1px solid #000000;">
+                    <strong>Anzahl Nr:</strong>
+                </td>
+                <td id="totalNr" style="border: 1px solid #000000;">
+                </td>
+                <td style="border: 1px solid #000000;">
+                    <strong>Anzahl Nr Gegner:</strong>
+                </td>
+                <td id="totalNrGegner" style="border: 1px solid #000000;">
+                </td>
+            </tr>
+
+            <tr>
+                <td style="border: 1px solid #000000;">
+                    <strong>Schlagpunkte:</strong>
+                </td>
+                <td id="schlagPunkte" style="border: 1px solid #000000;">
+                </td>
+                <td style="border: 1px solid #000000;">
+                    <strong>Schlagpunkte Gegner:</strong>
+                </td>
+                <td id="schlagPunkteGegner" style="border: 1px solid #000000;">
+                </td>
+            </tr>
+			
+			<tr>
+                <td style="border: 1px solid #000000;">
+                    <strong>Schiedsrichter:</strong>
+                </td>
+                <td id="schiedsrichter" style="border: 1px solid #000000;">
+                </td>
+                <td style="border: 1px solid #000000;">
+                    <strong>Lizenz:</strong>
+                </td>
+                <td id="schiedsrichterLizenz" style="border: 1px solid #000000;">
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <strong>Spielbericht:</strong>
+                </td>
+                <td>
+                    &#160;
+                </td>
+                <td>
+                    &#160;
+                </td>
+                <td>
+                    &#160;
+                </td>
+            </tr>
+
+            <tr>
+                <td style="border: 1px solid #000000;" rowspan="0" colspan="4">
+                    <p id="bericht">
+                    </p>
+
+                    <p>
+                        &#160;
+                    </p>
+
+                    <p>
+                        &#160;
+                    </p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p>
+        &#160;
+    </p>
+
+    <table id="table" style="width: 100%;" border="1" cellspacing="0" cellpadding="0">
+        <tbody>
+            <tr id="tableheader" style="height: 10pt;">
+                <td style="border-top-width: 0.5pt; border-style: solid none; border-top-color: #95b3d7; border-bottom-width: 0.5pt; border-bottom-color: #95b3d7; background: #4f81bd;" width="40"
+                data-sort="reihenfolge" data-sorttype="numeric">
+                </td>
+                <td style=
+                "width: 60pt; font-size: 10pt; color: white; font-weight: bold; font-family: Calibri; border-top-width: 0.5pt; border-style: solid none; border-top-color: #95b3d7; border-bottom-width: 0.5pt; border-bottom-color: #95b3d7; border: 1px solid #000000; background: #4f81bd;"
+                width="88" height="20" data-sort="nachname" data-sorttype="string">
+                    Name
+                </td>
+                <td style=
+                "width: 60pt; font-size: 10pt; color: white; font-weight: bold; font-family: Calibri; border-top-width: 0.5pt; border-style: solid none; border-top-color: #95b3d7; border-bottom-width: 0.5pt; border-bottom-color: #95b3d7; border: 1px solid #000000; background: #4f81bd;"
+                width="80" data-sort="vorname" data-sorttype="string">
+                    Vorname
+                </td>
+                <td style=
+                "width: 60pt; font-size: 10pt; color: white; font-weight: bold; font-family: Calibri; border-top-width: 0.5pt; border-style: solid none; border-top-color: #95b3d7; border-bottom-width: 0.5pt; border-bottom-color: #95b3d7; border: 1px solid #000000; background: #4f81bd; text-align: right;"
+                width="80">
+                    1
+                </td>
+                <td style=
+                "width: 60pt; font-size: 10pt; color: white; font-weight: bold; font-family: Calibri; border-top-width: 0.5pt; border-style: solid none; border-top-color: #95b3d7; border-bottom-width: 0.5pt; border-bottom-color: #95b3d7; border: 1px solid #000000; background: #4f81bd; text-align: right;"
+                width="80">
+                    2
+                </td>
+                <td style=
+                "width: 60pt; font-size: 11pt; color: white; font-weight: bold; font-family: Calibri; border-top-width: 0.5pt; border-style: solid none; border-top-color: #95b3d7; border-bottom-width: 0.5pt; border-bottom-color: #95b3d7; border: 1px solid #000000; background: #4f81bd; text-align: right;"
+                width="80">
+                    3
+                </td>
+                <td style=
+                "width: 60pt; font-size: 10pt; color: white; font-weight: bold; font-family: Calibri; border-top-width: 0.5pt; border-style: solid none; border-top-color: #95b3d7; border-bottom-width: 0.5pt; border-bottom-color: #95b3d7; border: 1px solid #000000; background: #4f81bd; text-align: right;"
+                width="80">
+                    4
+                </td>
+                <td id="ries5col" style=
+                "width: 60pt; font-size: 10pt; color: white; font-weight: bold; font-family: Calibri; border-top-width: 0.5pt; border-style: solid none; border-top-color: #95b3d7; border-bottom-width: 0.5pt; border-bottom-color: #95b3d7; border: 1px solid #000000; background: #4f81bd; text-align: right;"
+                width="80">
+                    5
+                </td>
+                <td id="ries6col" style=
+                "width: 60pt; font-size: 11pt; color: white; font-weight: bold; font-family: Calibri; border-top-width: 0.5pt; border-style: solid none; border-top-color: #95b3d7; border-bottom-width: 0.5pt; border-bottom-color: #95b3d7; border: 1px solid #000000; background: #4f81bd; text-align: right;"
+                width="80">
+                    6
+                </td>
+                <td id="ries7col" style=
+                "width: 60pt; font-size: 10pt; color: white; font-weight: bold; font-family: Calibri; border-top-width: 0.5pt; border-style: solid none; border-top-color: #95b3d7; border-bottom-width: 0.5pt; border-bottom-color: #95b3d7; border: 1px solid #000000; background: #4f81bd; text-align: right;"
+                width="80">
+                    7
+                </td>
+                <td id="ries8col" style=
+                "width: 60pt; font-size: 10pt; color: white; font-weight: bold; font-family: Calibri; border-top-width: 0.5pt; border-style: solid none; border-top-color: #95b3d7; border-bottom-width: 0.5pt; border-bottom-color: #95b3d7; border: 1px solid #000000; background: #4f81bd; text-align: right;"
+                width="80">
+                    8
+                </td>
+                <td style=
+                "width: 60pt; font-size: 10pt; color: white; font-weight: bold; font-family: Calibri; border-top-width: 0.5pt; border-style: solid none; border-top-color: #95b3d7; border-bottom-width: 0.5pt; border-bottom-color: #95b3d7; border: 1px solid #000000; background: #4f81bd; text-align: right;"
+                width="80" data-sort="total" data-sorttype="numeric">
+                    Total
+                </td>
+                <td id="rpcol" style=
+                "width: 60pt; font-size: 10pt; color: white; font-weight: bold; font-family: Calibri; border-top-width: 0.5pt; border-style: solid none; border-top-color: #95b3d7; border-bottom-width: 0.5pt; border-bottom-color: #95b3d7; border: 1px solid #000000; background: #4f81bd;"
+                width="96" data-sort="rangpunkte" data-sorttype="numeric">
+                    RP
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/qooxdoo/4.1/q.min.js">
+</script> <script type="text/javascript">
+//<![CDATA[
+    (function() {
+    var club = 'test';
+
+    var sortColumn, sortDirection, sortType, data;    
+        var style = ['height: 15pt; font-size: 11pt; font-family: Calibri; border-top-width: 0.5pt; border-style: solid none solid solid; border-top-color: #95b3d7; border-bottom-width: 0.5pt; border-bottom-color: #95b3d7; border-left-width: 0.5pt; border-left-color: #95b3d7; border: 1px solid #000000; background: #ffffff;',              
+                 'height: 15pt; font-size: 11pt; font-family: Calibri; border-top-width: 0.5pt; border-style: solid none solid solid; border-top-color: #95b3d7; border-bottom-width: 0.5pt; border-bottom-color: #95b3d7; border-left-width: 0.5pt; border-left-color: #95b3d7; border: 1px solid #000000;' ];
+
+
+        q.ready(function() {
+        var pos = window.location.search.indexOf('spielid=');
+        var spielId = window.location.search.substring(pos+8);
+                var xmlhttp = q.io.xhr("https://www.hgverwaltung.ch/api/1/"+club+"/spiel/"+spielId);
+                xmlhttp.on('loadend', function(xhr) {
+                        if (xhr.responseText) {
+                            data = JSON.parse(xhr.responseText);                            
+                                
+                            sortColumn = 'reihenfolge';
+                            sortDirection = '';
+                            sortType = 'numeric';                               
+                                
+                            var datum = data.datum.substring(8,10) + '.' + data.datum.substring(5,7) + '.' + data.datum.substring(0,4) + ' ' + data.datum.substring(11);
+                                
+							q("#art").setHtml(data.art);
+							q("#datum").setHtml(datum);
+							q("#gegner").setHtml(data.gegner);
+							
+							if (data.schlagPunkte != null) {
+							  q("#schlagPunkte").setHtml(''+data.schlagPunkte);
+							}
+							if (data.schlagPunkteGegner != null) {
+							  q("#schlagPunkteGegner").setHtml(''+data.schlagPunkteGegner);
+							} 
+							if (data.schiedsrichter != null) {
+							  q("#schiedsrichter").setHtml(''+data.schiedsrichter);
+							} 
+							if (data.schiedsrichterLizenz != null) {
+							  q("#schiedsrichterLizenz").setHtml(''+data.schiedsrichterLizenz);
+							}
+							if (data.totalNr != null) {
+							  q("#totalNr").setHtml(''+data.totalNr);
+							}
+							if (data.totalNrGegner != null) {
+							  q("#totalNrGegner").setHtml(''+data.totalNrGegner);
+							}
+							if (data.bericht) {
+							  q("#bericht").setHtml(data.bericht);
+							}
+							
+							if (!data.meisterschaft) {
+							  q("#rpcol").hide();
+							}
+							
+							if (data.anzahlRies === 4) {
+								q("#ries5col").hide();
+								q("#ries6col").hide();
+								q("#ries7col").hide();
+								q("#ries8col").hide();
+							}
+							else if (data.anzahlRies === 6) {
+								q("#ries7col").hide();
+								q("#ries8col").hide();							
+							}
+															
+							showData(data, data.spieler);
+                        }
+                });
+                xmlhttp.send();   
+                q("#tableheader td").on("click", onHeaderClick);  
+        });    
+
+        function showData(spiel, datas) {      
+        
+		   var grandeTotal = 0;
+		   var totals = [];
+		   for (var i = 0; i < spiel.anzahlRies; i++) {
+			  totals.push(0);
+		   }
+		   
+           for (var i = 0; i < datas.length; i++) {
+              var data = datas[i];
+              var total = 0;
+              for (var j = 0; j < data.ries.length; j++) {
+                if (data.ries[j]) {
+                   total = total + data.ries[j];
+				   if (!data.ueberzaehlig) {
+					   grandeTotal = grandeTotal + data.ries[j];
+					   totals[j] = totals[j] + data.ries[j];
+				   }	   
+                }
+              }
+              data.total = total;
+           }    
+        
+                datas.sort(createSortFunction());
+                q("#table tr.g").remove();
+                                 
+                for (var i = 0; i < datas.length; i++) {
+                        var data = datas[i];
+                    var si = i % 1;
+                    var ueber = (data.ueberzaehlig) ? 'color:gray;' : '';
+                        var row = '<tr class="g" style="height: 15pt;">';
+                        row += '<td style="'+style[si]+ueber+'">'+data.reihenfolge+'</td>';
+                        row += '<td style="'+style[si]+ueber+'">'+data.nachname+'</td>';
+                        row += '<td style="'+style[si]+ueber+'">'+data.vorname+'</td>';                 
+                        for (var j = 0; j < spiel.anzahlRies; j++) {
+							if (j < data.ries.length && data.ries[j] !== null) {
+								row += '<td style="'+style[si]+ueber+'text-align:right';
+								if (data.nr[j]) {
+									row += ';background-color:#F78181';
+								}
+								row += '">';                                
+									row += data.ries[j];
+									row += '</td>';
+							}
+							else {
+								row += '<td style="'+style[si]+ueber+'"></td>';     
+							}                               
+                        }
+                        row += '<td style="'+style[si]+ueber+'text-align:right">'+data.total+'</td>';
+						if (spiel.meisterschaft) {
+							row += '<td style="'+style[si]+ueber+'text-align:right;padding-right:10px">';
+							if (data.rangpunkte) {
+							   row += data.rangpunkte;
+							}
+							row += '</td>';
+						}
+                        row = row + '</tr>';
+                        q("#table > tbody:last").append(row);                                   
+				}
+				
+				var row = '<tr class="g" style="height: 15pt;">';				
+				row += '<td></td>';
+				row += '<td></td>';
+				row += '<td></td>';
+				for (var j = 0; j < spiel.anzahlRies; j++) {
+						row += '<td style="'+style[0]+'text-align:right;font-weight:bold;">'+totals[j]+'</td>';                            
+				}
+				row += '<td style="'+style[0]+'text-align:right;font-weight:bold;">'+grandeTotal+'</td>';
+				if (spiel.meisterschaft) {
+					row += '<td></td>';	
+				}
+				row += '</tr>';				
+				q("#table > tbody:last").append(row);         
+        }
+
+        function createSortFunction() {
+                if (sortType === 'string') {
+                        return function(a, b) {
+                      var x = a[sortColumn].toLowerCase();
+                  var y = b[sortColumn].toLowerCase();
+                  if (sortDirection !== '-') {
+                                return x < y ? -1 : x > y ? 1 : 0;
+                          } else {
+                            return x < y ? 1 : x > y ? -1 : 0;
+                          }
+                        }
+                } 
+                else {
+                        return function(a, b) {
+                          if (sortDirection !== '-') {
+                        return a[sortColumn] - b[sortColumn];
+                      } else {
+                        return b[sortColumn] - a[sortColumn];
+                      }
+                        }
+                }
+        }       
+        
+        function onHeaderClick(e) {
+            var target = q(e.getTarget());
+                var sort = target.getData('sort');
+                
+                if (sort) {
+                        if (sortColumn === sort) {
+                           if (sortDirection === '-') {
+                             sortDirection = '';
+                           } else {
+                             sortDirection = '-';
+                           }
+                        } else {
+                           sortColumn = sort;
+                           sortDirection = '';
+                           sortType = target.getData('sorttype');
+                        }
+                }
+                
+                showData(data.spieler);
+        }    
+
+
+    })();
+    //]]>
+    </script>
+</div>
