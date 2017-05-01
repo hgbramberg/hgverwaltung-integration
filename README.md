@@ -15,17 +15,20 @@ Auch die history ist via GIT Repo ideal gelöst.
   Ich habe dazu den Ordner wordpress/wp-content/hgverwaltung gewählt
 
 3. Seiten mit den includes anlegen
-  a: Resultate – Durchschnitte
+
+  a) Resultate – Durchschnitt
+  [includeme file="wp-content/hgverwaltung/durchschnitt.php"]
   
-  b: Resultate – Spielplan
+  b) Resultate – Spielplan
+  [includeme file="wp-content/hgverwaltung/spiele.php"]
   
-  c: Resultate – SpielplanDetail
+  c) Resultate – SpielplanDetail
+  [includeme file="wp-content/hgverwaltung/spieldetail.php"]
+    
+  d) Resultate - Streiche
+  [includeme file="wp-content/hgverwaltung/streiche.php"]
   
-  d: Resultate - Durchschnitt
-  
-  e: Resultate - Streiche
-  
-  f: Resultate - Rangpunkte
-  
+  e) Resultate - Rangpunkte
+  [includeme file="wp-content/hgverwaltung/rangpunkte.php"]
 
 tbc.
