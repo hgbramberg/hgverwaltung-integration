@@ -1,4 +1,4 @@
-﻿<p>
+<p>
     <select id="teamSelect" size="3" multiple="multiple">
         </select> <select id="jahrSelect" style="vertical-align: top;">
         </select>
@@ -102,7 +102,10 @@
                         datas.sort(createSortFunction());
                         q("#table tr.g").remove();
                         var style = ['height: 15pt; font-size: 10pt; color: #365f91; font-weight: bold; font-family: Calibri; border-top-width: 0.5pt; border-style: solid none solid solid; border-top-color: #95b3d7; border-bottom-width: 0.5pt; border-bottom-color: #95b3d7; border-left-width: 0.5pt; border-left-color: #95b3d7; background: #d3dfee;', 'height: 15pt; font-size: 10pt; color: #365f91; font-weight: bold; font-family: Calibri; border-top-width: 0.5pt; border-style: solid none solid solid; border-top-color: #95b3d7; border-bottom-width: 0.5pt; border-bottom-color: #95b3d7; border-left-width: 0.5pt; border-left-color: #95b3d7;'];
-                        var detailUrl = 'https://www.hornusserverwaltung.ch/durchschnitt-auf-homepage/ansicht-spiele/spieldetail?option=com_content&amp;view=article&amp;id=102:z-resultat&amp;catid=12:mannschaft&amp;Itemid=435';
+                        var detailUrl_2 = 'https://www.hornusserverwaltung.ch/durchschnitt-auf-homepage/ansicht-spiele/spieldetail?option=com_content&amp;view=article&amp;id=102:z-resultat&amp;catid=12:mannschaft&amp;Itemid=435';
+
+
+var detailUrl = 'https://hg.bramberg.ch/?page_id=4612&preview=true';
                         for (var i = 0; i < datas.length; i++) {
                                 var data = datas[i];
                                 var si = i % 2;
