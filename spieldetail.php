@@ -225,6 +225,12 @@
 							if (data.schlagPunkteGegner != null) {
 							  q("#schlagPunkteGegner").setHtml(''+data.schlagPunkteGegner);
 							}
+							if (data.schiedsrichter != null) {
+							  q("#schiedsrichter").setHtml(''+data.schiedsrichter);
+							}
+							if (data.schiedsrichterLizenz != null) {
+							  q("#schiedsrichterLizenz").setHtml(''+data.schiedsrichterLizenz);
+							}
 							if (data.totalNr != null) {
 							  q("#totalNr").setHtml(''+data.totalNr);
 							}
